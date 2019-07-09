@@ -1,6 +1,7 @@
 package leetCode
 
 class LeetCode169 {
+
   //Time:O(n) Space:O(1)
   def majorityElement(nums: Array[Int]): Int = {
     var res = 0
